@@ -7,8 +7,6 @@
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -30,7 +28,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello-Microverse] <a name="about-project"></a>
 
 **[your_project__name]** is a simple website that is made out of HTML and CSS. It dicplays the text "Hello Microverse!" on the screen, colored cyan in css.
 
