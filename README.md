@@ -16,9 +16,9 @@
 
 Go to the Folder where want to copy this repository and type the following commands in your terminal:
 
-- git clone git@github.com:SiveMdluli/Hello-Microverse-Project.git
+- git clone git@github.com:SiveMdluli/Hello-Microverse-Project-.git
 - OR
-- git clone https://github.com/SiveMdluli/Hello-Microverse-Project.git
+- git clone https://github.com/SiveMdluli/Hello-Microverse-Project-.git
 
 ## Prerequisites
 
